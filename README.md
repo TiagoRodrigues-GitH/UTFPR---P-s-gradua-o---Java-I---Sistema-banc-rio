@@ -21,6 +21,9 @@ This project was developed as an academic exercise to apply the pillars of **Obj
 - Prevent negative account numbers with a custom exception
 - Check if the account number is even or odd
 
+<img width="563" height="410" alt="Captura de tela 2026-06-01 142451" src="https://github.com/user-attachments/assets/43482eef-08e3-461c-8552-8df0ee555f7c" />
+
+
 ## ▶️ How to run
 
 1. Compile all `.java` files:
